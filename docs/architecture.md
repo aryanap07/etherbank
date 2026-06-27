@@ -14,7 +14,7 @@ The architecture follows a simple state-based design where all user balances are
                     Ethereum Blockchain
                              │
                              │
-                  User Transaction
+                     User Transaction
                              │
                              ▼
                     ┌─────────────────┐
