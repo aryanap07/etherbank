@@ -1,6 +1,6 @@
 # EtherBank
 
-A secure Ethereum smart contract that enables users to deposit, withdraw, and transfer Ether on-chain. Built with Solidity, EtherBank demonstrates the core principles of decentralized banking through a minimal and efficient smart contract implementation.
+EtherBank is a decentralized banking smart contract built with Solidity for the Ethereum Virtual Machine (EVM). It enables users to securely deposit, withdraw, and transfer Ether while maintaining balances entirely on-chain without relying on a centralized intermediary.
 
 ## Overview
 
